@@ -1,5 +1,5 @@
 Materijali s predavanja.
 
-Edunova - Java programiranje 2018/2019.
+Potrebne baze, ERA dijagrami.
 
-Zadaci s nastave i zadaće.
+Zadaće i potrebno za nastavu.
